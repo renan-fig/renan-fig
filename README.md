@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renan-fig
 - 👀 I’m interested in improving my knowledge ad acquiring new ones!
-- 🌱 I’m currently learning C, HTML5 and CSS.
+- 🌱 I’m currently learning C, Python, HTML5 and CSS.
 - 💞️ I’m looking to collaborate on projects that could improve my skills!
 - 📫 How to reach me: renan.fig.dasilva@gmail.com
 
