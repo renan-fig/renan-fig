@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renan-fig
 - 👀 I’m interested in improving my knowledge and acquiring new ones!
 - 💞️ I’m looking to collaborate on projects that could improve my skills!
-- 💻 I'm curr�ently woeking at Ânimo Consultoria!
+- 💻 I'm currently working at Ânimo Consultoria!
 - 📫 How to reach me: renan.fig.dasilva@gmail.com
 
 <div align="center">
